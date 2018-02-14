@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(255, 255, 255);
+  font-size: 1em;
+}
+
+._button {
+  display: block;
+  width: 6%;
+  height: 66px;
+  margin: 130px auto 0;
+  border-radius: 3px;
+  background: url('../images/phone-receiver.svg') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
+  background-size: 88% 88%;
+  background-position: center center;
+  font: 400 1em/1.38 Helvetica;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._input {
+  display: block;
+  width: 56.0833333333%;
+  height: 44px;
+  margin: 167px auto 0;
+  padding: 0 10px;
+  border-radius: 3px;
+  background-color: rgb(219, 219, 219);
+  font: 400 1.063em/1.38 Helvetica;
+  text-align: center;
+  color: rgb(68, 165, 185);
+}
+
+video {
+
+        clear: both;
+        width: 25%;
+        height: 240px;
+        border: 1px solid rgb(84, 249, 35);
+        box-shadow: 0 2px 5px rgb(68, 165, 185);
+        margin-top: 5px;
+        margin-bottom: 5px;
+        margin-right: 5px;
+        margin-left: 5px;
+    }
